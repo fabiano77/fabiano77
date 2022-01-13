@@ -1,7 +1,7 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiano77)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiano77&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiano77)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiano77&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fabiano7)](https://solved.ac/fabiano7)
