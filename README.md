@@ -1,7 +1,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fabiano7)](https://solved.ac/fabiano7)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiano77&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiano77&hide=css,scss,c&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
